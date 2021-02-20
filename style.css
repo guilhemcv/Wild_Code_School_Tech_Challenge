@@ -204,9 +204,6 @@ tbody tr:hover {
 
 /*PAGE CONTACT*/
 
-#contact {
-  background:url(./photos/texture-blanche.gif);
-
 #contact h1 {
   font-size: 35px;
   text-decoration: underline;
@@ -215,7 +212,7 @@ tbody tr:hover {
   padding-top: 30px;
   margin-left: 20px;
 }
-.form {
+#contacForm {
   font-size: 20px;
   align-content: center;
   margin-left: 40px;
