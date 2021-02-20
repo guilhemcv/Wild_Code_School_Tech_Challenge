@@ -57,7 +57,7 @@ header nav ul li {
 /*PAGE ACCUEIL*/
  
 .titre {
-  background: url(/photos/surami.jpeg);
+  background: url(./photos/surami.jpeg);
   height: 1000px;
   background-position: center;
   background-repeat:no-repeat;
