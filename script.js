@@ -1,6 +1,5 @@
-document
-  .getElementById("contactForm")
-  .addEventListener("submit", function (event) {
+document.getElementById("contactForm")
+document.addEventListener("submit", function (event) {
     event.preventDefault();
     alert("Thank you for submitting your message !");
   });
